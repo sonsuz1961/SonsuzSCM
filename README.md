@@ -18,13 +18,13 @@ pip install pyfiglet
 
 toolu yükleme
 
-git clone https://github.com/sonsuz1961/sonsuz_scamer
+git clone https://github.com/sonsuz1961/SonsuzSCM
 
 
 çalıştırma
 
-cd sonsuz_scamer
-python3 sonsuz_scamer.py
+cd SonsuzSCM
+python3 SonsuzSCM.py
 
 .
 iyi kulanımlar :)
