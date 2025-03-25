@@ -176,7 +176,7 @@ def search_by_username(username):
         time.sleep(1)  # Hızlı istekleri önlemek için bekleme süresi
 
     # Sonuçları dosyaya yaz
-    file_name = f"{username}_scamer.txt"
+    file_name = f"{username}SCM.txt"
 
     with open(file_name, "a", encoding="utf-8") as f:
         f.write(f"🔍 Kullanıcı Adı: {username}\n")
